@@ -35,7 +35,7 @@ manager: kfile
   
 -   Select columns of data to include in the structure (not all columns need to be added to the model) and defining a key.  
   
--   Define a key for the structure, including the key for the bested table, if applicable.  
+-   Define a key for the structure, including the key for the nested table, if applicable.  
   
 -   Specify whether the source data should be separate into a training set and testing set. This step is optional.  
   
